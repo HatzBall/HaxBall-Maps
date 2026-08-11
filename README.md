@@ -35,8 +35,8 @@ https://raw.githubusercontent.com/raresmac/HaxBall-Maps/refs/heads/main/Maps/{fi
 ### SpaceBounce Maps
 | Map File | Bot Commands | HaxMaps Link |
 | :--- | :--- | :--- |
-| `spacebounce.hbs` | `!spacebounce`, `!spb` | [HaxMaps](https://haxmaps.com/map/1) |
-| `spacebounce_v2.hbs` | `!spacebounce_v2`, `!spb2` | [HaxMaps](https://haxmaps.com/map/809) |
+| `space_bounce.hbs` | `!spacebounce`, `!spb`, `!sb` | [HaxMaps](https://haxmaps.com/map/1) |
+| `space_bounce_v2.hbs` | `!spacebounce_v2`, `!spb2`, `!sb2` | [HaxMaps](https://haxmaps.com/map/809) |
 
 ### Minigames & Fun Maps
 | Map File | Bot Commands | HaxMaps Link |
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/raresmac/HaxBall-Maps/refs/heads/main/Maps/{fi
 | `dodgeball.hbs` | `!dodgeball`, `!db` | [HaxMaps](https://haxmaps.com/map/12644) |
 | `fencing.hbs` | `!fencing`, `!fen` | [HaxMaps](https://haxmaps.com/map/11407) |
 | `hax_roulette.hbs` | `!haxroulette`, `!hr` | — |
-| `pingpong.hbs` | `!pingpong`, `!pp` | [HaxMaps](https://haxmods.com/map/?id=716) |
+| `ping_pong.hbs` | `!pingpong`, `!pp` | [HaxMaps](https://haxmods.com/map/?id=716) |
 | `training.hbs` | `!training` | [HaxMaps](https://haxmaps.com/map/1770) |
 
 ### 🏟️ Built-in HaxBall Stadiums
